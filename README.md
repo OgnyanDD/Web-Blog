@@ -28,6 +28,9 @@ Creating a **Blog** application with the **Express.js Framework**, from setting 
 There is a chance you hit on an error. You are missing another module that you need to install globally – sequelize-cli. Just run the following command:<br/>
 *"npm install -g sequelize-cli"*<br/>
 
+**Other variations of the blog:**
+* [**PHP Blog with Symfony Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF19.%20PHP%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EX%20(BLOG))
+
 ## Screen previews of my design in 768px mode:
 ![My Design](https://github.com/OgnyanDD/Web-Blog/blob/master/pic's/MyDesign.png)
 <br/>
