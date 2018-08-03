@@ -22,7 +22,7 @@ Creating a **Blog** application with the **Express.js Framework**, from setting 
 - Start MySQL server to listen;
 - Create data base with name "blog";
 - Open CMD terminal in project folder;
-- Write *"npm install --save sequelize mysql2 passport"* to take the dependeces;<br/>
+- Write *"npm install --save sequelize mysql2 passport"* to take the dependecies;<br/>
 - Initialize Sequelize with the following command:<br/>
 *"sequelize init"*<br/>
 There is a chance you hit on an error. You are missing another module that you need to install globally – sequelize-cli. Just run the following command:<br/>
@@ -30,6 +30,7 @@ There is a chance you hit on an error. You are missing another module that you n
 
 **Other variations of the blog:**
 * [**PHP Blog with Symfony Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF19.%20PHP%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EX%20(BLOG))
+* [**JAVA Blog with Spring Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF25.%20JAVA%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EX%20(BLOG))
 
 ## Screen previews of my design in 768px mode:
 ![My Design](https://github.com/OgnyanDD/Web-Blog/blob/master/pic's/MyDesign.png)
