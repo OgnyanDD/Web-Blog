@@ -31,6 +31,7 @@ There is a chance you hit on an error. You are missing another module that you n
 **Other variations of the blog:**
 * [**PHP Blog with Symfony Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF19.%20PHP%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EX%20(BLOG))
 * [**JAVA Blog with Spring Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF25.%20JAVA%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EX%20(BLOG))
+* [**C# Blog in ASP.NET MVC using Entity Framework and MVC**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF29.%20CSHARP%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EX%20(BLOG))
 
 ## Screen previews of my design in 768px mode:
 ![My Design](https://github.com/OgnyanDD/Web-Blog/blob/master/pic's/MyDesign.png)
